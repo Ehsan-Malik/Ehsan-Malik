@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ehsan-Malik
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, PHP, SQL, C++, C
+- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, PHP, SQL, MySQL, C++, C
 - 📫 How to reach me ehsanmalik5001@gmail.com
 
 <!---
